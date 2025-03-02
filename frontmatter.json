@@ -1,0 +1,85 @@
+{
+  "$schema": "https://beta.frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "name": "default",
+      "pageBundle": false,
+      "previewPath": null,
+      "fields": [
+        {
+          "title": "Title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "Description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "Publishing date",
+          "name": "date",
+          "type": "datetime",
+          "default": "{{now}}",
+          "isPublishDate": true
+        },
+        {
+          "title": "Content preview",
+          "name": "preview",
+          "type": "image"
+        },
+        {
+          "title": "Is in draft",
+          "name": "draft",
+          "type": "draft"
+        },
+        {
+          "title": "Tags",
+          "name": "tags",
+          "type": "tags"
+        },
+        {
+          "title": "Categories",
+          "name": "categories",
+          "type": "categories"
+        }
+      ]
+    }
+  ],
+  "frontMatter.framework.id": "hugo",
+  "frontMatter.content.publicFolder": "static",
+  "frontMatter.preview.host": "http://localhost:1313",
+  "frontMatter.content.pageFolders": [
+    {
+      "path": "[[workspace]]/content",
+      "title": "content"
+    },
+    {
+      "path": "[[workspace]]/content/categories"
+    },
+    {
+      "path": "[[workspace]]/content/tags"
+    },
+    {
+      "path": "[[workspace]]/content/blog"
+    },
+    {
+      "path": "[[workspace]]/content/archive"
+    }
+  ],
+  "frontMatter.framework.startCommand": "hugo server -D --themesDir ..",
+  "frontMatter.git.enabled": false,
+  "frontMatter.content.snippets": {
+    "Header Image": {
+      "description": "",
+      "body": "{{<image width=\"100%\" frame=\"false\" caption=\"Assets used are public domain and did not necessitate reference/attribution\" src=\"img/bigbrothercollage.jpg\" >}}",
+      "isMediaSnippet": true,
+      "fields": []
+    },
+    "Blog/Flyer Titie/Author Header": {
+      "description": "",
+      "body": "<h2 style=\"color:red\"><span style=\"color:gray; font-size:75%\">01-MAR-2025<br></span>THE SCALE AND INFLUENCE OF GOVERNMENT OMNISCIENCE<span style=\"color:gray; font-size:75%\"><br>ATTICUS EMILSSON</span></h2>",
+      "fields": []
+    }
+  }
+}
