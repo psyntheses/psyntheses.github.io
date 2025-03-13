@@ -65,9 +65,30 @@
     },
     {
       "path": "[[workspace]]/content/archive"
+    },
+    {
+      "path": "[[workspace]]/content/artifacts"
+    },
+    {
+      "path": "[[workspace]]/content/artifacts/cybersecurity"
+    },
+    {
+      "path": "[[workspace]]/content/artifacts/cybersecurity/cs462"
+    },
+    {
+      "path": "[[workspace]]/content/artifacts/cybersecurity/cs464"
+    },
+    {
+      "path": "[[workspace]]/content/artifacts/cybersecurity/cyse270"
+    },
+    {
+      "path": "[[workspace]]/content/artifacts/cybersecurity/cyse280"
+    },
+    {
+      "path": "[[workspace]]/content/artifacts/cybersecurity/cyse301"
     }
   ],
-  "frontMatter.framework.startCommand": "hugo server -D --themesDir ..",
+  "frontMatter.framework.startCommand": "hugo server -D --disableFastRender --themesDir ..",
   "frontMatter.git.enabled": false,
   "frontMatter.content.snippets": {
     "Header Image": {

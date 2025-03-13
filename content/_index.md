@@ -4,6 +4,8 @@ date: 2020-06-01T17:11:12+02:00
 draft: false
 menu:
   main:
+    url: "home"
+    identifer: "home"
     name: "Home"
     weight: 1
 ---
@@ -60,22 +62,10 @@ Automation<br>
     {{< /resume-section >}}
     
     {{% resume-section title="Certifications" %}}
-<span>CompTIA A+, Network+<br>
+<span>CompTIA A+, Network+, Security+<br>
 LPI LE-1<br>
 Microsoft Office Specialist (MOS) Master<br>
 </span>
     {{% /resume-section %}}
 
 {{< /container >}}
-
-<!--After having been wrongfully convicted of treason in the Netherlands and
-being handed a life sentence, I managed to escape with the help of my dear
-wife Maria. She brought a chest of books to the prison where I was incarcerated
-(nothing out of the ordinary since I am an avid reader) which was then
-transported back out of the prison, with the the books replaced by yours truly!
-
-I have a small gallery of works of art depicting me under the [Gallery]({{< ref "hugo-gallery.md" >}}) tab.
-I regularly post lorem ipsum om my [Blog]({{< ref "blog/_index.md" >}}), and
-there are also examples of how to include images in the theme of the site.
-If you want to get in touch, you can find my social media links and email
-address under the [Contact]({{< ref "contact.md" >}}) tab. -->
