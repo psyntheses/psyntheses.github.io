@@ -10,7 +10,7 @@ Description: The human race and it’s affinity towards progress has potentiated
 slug: tempora-obscura
 ---
 
-{{<image width="100%" frame="false" caption="Assets used are public domain and did not necessitate reference/attribution" src="img/bigbrothercollage.jpg" >}}
+{{<image width="100%" frame="false" caption="Assets used are public domain and did not necessitate reference/attribution" src="/img/fullsize/temporaObscura.jpg" >}}
 
 <h2 style="color:red"><span style="color:gray; font-size:75%">01-MAR-2025<br></span>THE SCALE AND INFLUENCE<br>OF GOVERNMENT OMNISCIENCE<span style="color:gray; font-size:75%"><br>ATTICUS EMILSSON</span></h2>
 
