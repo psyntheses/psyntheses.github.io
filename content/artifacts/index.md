@@ -49,7 +49,7 @@ menu:
   <br><br>
   <a href="/artifacts/techandsociety/cyse201s/"><strong>[CYSE201S]</strong> Cybersecurity and the Social Sciences</a>
 
-  <a href="/artifacts/techandsociety/dasc205s/"><strong>[DASC205S]</strong> Data, Technology, Society</a>
+  <a href="/artifacts/techandsociety/soc205s/"><strong>[SOC205S]</strong> Data, Technology, Society</a>
 
   <a href="/artifacts/techandsociety/ids300w/"><strong>[IDS300W]</strong> Interdisciplinary Theory and Concepts</a>
 

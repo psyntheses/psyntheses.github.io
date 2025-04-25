@@ -18,9 +18,7 @@ This course allows students to have an internship to work in an agency or compan
  <i>[click to expand/collapse]</i>
 
 <details>
-  <summary><strong>Final Paper</strong> - Comprehensively details the work completed under the context of the internship, the knowledge I gained throughout the employment experience, and how it influenced my professional goals. <i>[click to expand/collapse]</i></summary>
-
-  [Link to PDF](CYSE368_EmilssonAtticus_FinalPaper.pdf)
+  <summary><strong>Final Paper</strong> - Comprehensively details the work completed under the context of the internship, the knowledge I gained throughout the employment experience, and how it influenced my professional goals</summary>
 
   {{< pdfReader "CYSE368_EmilssonAtticus_FinalPaper.pdf" >}}
 </details>
@@ -29,16 +27,12 @@ This course allows students to have an internship to work in an agency or compan
 
 <details>
   <summary><strong>Reflection 1</strong></summary>
-  
-  [Link to PDF](CYSE368_EmilssonAtticus_Reflection1.pdf)
 
   {{< pdfReader "CYSE368_EmilssonAtticus_Reflection1.pdf" >}}
 </details>
 
 <details>
   <summary><strong>Reflection 2</strong></summary>
-  
-  [Link to PDF](CYSE368_EmilssonAtticus_Reflection2.pdf)
 
   {{< pdfReader "CYSE368_EmilssonAtticus_Reflection2.pdf" >}}
 
@@ -46,8 +40,6 @@ This course allows students to have an internship to work in an agency or compan
 
 <details>
   <summary><strong>Reflection 3</strong></summary>
-  
-  [Link to PDF](CYSE368_EmilssonAtticus_Reflection3.pdf)
 
   {{< pdfReader "CYSE368_EmilssonAtticus_Reflection3.pdf" >}}
 
@@ -55,8 +47,6 @@ This course allows students to have an internship to work in an agency or compan
 
 <details>
   <summary><strong>Reflection 4</strong></summary>
-  
-  [Link to PDF](CYSE368_EmilssonAtticus_Reflection4.pdf)
 
   {{< pdfReader "CYSE368_EmilssonAtticus_Reflection4.pdf" >}}
 
@@ -64,8 +54,6 @@ This course allows students to have an internship to work in an agency or compan
 
 <details>
   <summary><strong>Reflection 5</strong></summary>
-  
-  [Link to PDF](CYSE368_EmilssonAtticus_Reflection5.pdf)
 
   {{< pdfReader "CYSE368_EmilssonAtticus_Reflection5.pdf" >}}
 

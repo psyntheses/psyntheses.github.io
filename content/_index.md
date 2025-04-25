@@ -16,9 +16,17 @@ Markup/styling: HTML, CSS, MD
 
 <h1 style="text-align: center">Home</h1>
 
+
+
 {{< container >}}
     {{% resume-section title="About Me" %}}
 IT Technician, cybersecurity student currently enrolled at Old Dominion University. Primary interests include internet privacy, open-source software devlopment, and P2P technologies. 
+<br><br>
+<details>
+  <summary>View personal narrative</summary>
+
+  {{< pdfReader "IDS493_EmilssonAtticus_Narrative.pdf" >}}
+</details>
     {{% /resume-section %}}
 
     {{% resume-section title="Interests" %}}
@@ -55,7 +63,7 @@ Automation<br>
     {{< /resume-section >}}
 
     {{< resume-section title="Education" >}}
-        {{< resume-entry what="Cybersecurity (B.A.)"
+        {{< resume-entry what="Cybersecurity (B.S.)"
                         where="Old Dominion University"
                         when="Expected graduation in 2025" >}}
         {{% /resume-entry %}}
