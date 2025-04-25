@@ -33,11 +33,11 @@ menu:
   {{% resume-section title="Law and Ethics" %}}
   Courses focus on the legal frameworks, ethical considerations, and regulatory requirements that govern how information and digital assets are secured. Throughout these programs, students explore the complex relationship between technology, law, and ethics. This includes pressing subjects such as data privacy and intellectual property rights. Standards and regulations such as HIPAA, PCI-DSS, and the GDPR are explored and analyzed. Learned concepts are applied to modern issues which prepares students with the capability to properly navigate this complex, interdisciplinary environment.
   <br><br>
-  <a href="/artifacts/cybersecurity/cs462/"><strong>[CS406]</strong> Cybersecurity Fundamentals</a>
+  <a href="/artifacts/lawandethics/cs406/"><strong>[CS406]</strong> Cybersecurity Fundamentals</a>
 
-  <a href="/artifacts/cybersecurity/cs464/"><strong>[CYSE425W]</strong> Networked System Security</a>
+  <a href="/artifacts/lawandethics/cyse425w/"><strong>[CYSE425W]</strong> Networked System Security</a>
 
-  <a href="/artifacts/cybersecurity/cyse270/"><strong>[PHIL355E]</strong> Linux System for Cybersecurity</a>
+  <a href="/artifacts/lawandethics/phil355e/"><strong>[PHIL355E]</strong> Linux System for Cybersecurity</a>
   {{% /resume-section %}}
   {{< /container >}}
 
@@ -47,12 +47,23 @@ menu:
   {{% resume-section title="Tech and Society" %}}
   In the context of cybersecurity, these courses/programs examine the broader impact of technology on different scales including individual, community, and global. These courses exhibit a primary focus on how technological advancement influences societal norms/behaviors and vice-versa. True to the interdisciplinary nature of cybersecurity, these courses explore the complex intersection between technology, ethics, and social responsibility, and may cover topics such as surveillance, online privacy, and digital redlining.
   <br><br>
-  <a href="/artifacts/cybersecurity/cs462/"><strong>[CYSE201S]</strong> Cybersecurity and the Social Sciences</a>
+  <a href="/artifacts/techandsociety/cs462/"><strong>[CYSE201S]</strong> Cybersecurity and the Social Sciences</a>
 
-  <a href="/artifacts/cybersecurity/cs464/"><strong>[DASC205S]</strong> Networked System Security</a>
+  <a href="/artifacts/techandsociety/dasc205s/"><strong>[DASC205S]</strong> Networked System Security</a>
 
-  <a href="/artifacts/cybersecurity/ids300w/"><strong>[IDS300W]</strong> Interdisciplinary Theory and Concepts</a>
+  <a href="/artifacts/techandsociety/ids300w/"><strong>[IDS300W]</strong> Interdisciplinary Theory and Concepts</a>
 
-  <a href="/artifacts/cybersecurity/cyse280/"><strong>[SOC205S]</strong> Windows System Management and Security</a>
+  <a href="/artifacts/techandsociety/soc205s/"><strong>[SOC205S]</strong> Windows System Management and Security</a>
   {{% /resume-section %}}
 {{< /container >}}
+
+<hr>
+
+{{< container >}}
+{{% resume-section title="Internship Experience" %}}
+<a href="/artifacts/internship/cyse368/"><strong>[CYSE368]</strong> Cybersecurity Internship</a>
+
+{{% /resume-section %}}
+{{< /container >}}
+
+  
