@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Atticus Emilsson</title>
+        <link>//localhost:1313/year/</link>
+        <description>Latest blog posts from Atticus Emilsson</description>
+
+        
+        <language>en-us</language>
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+        <atom:link href="//localhost:1313/year/index.xml" rel="self" type="application/rss+xml" />
+        
+
+        
+            
+        <item>
+          <title>Tempora obscura</title>
+          <link>//localhost:1313/blog/2025/03/tempora-obscura/</link>
+          <pubDate>Sun, 02 Mar 2025 20:00:00 +0200</pubDate>
+          
+          <guid>//localhost:1313/blog/2025/03/tempora-obscura/</guid>
+          <description>Assets used are public domain and did not necessitate reference/attribution
+01-MAR-2025
+THE SCALE AND INFLUENCE
+OF GOVERNMENT OMNISCIENCE
+ATTICUS EMILSSON The human race and it’s affinity towards progress has potentiated corporate greed and sowed distrust between governing bodies and their constituents (albeit unexpectedly). Among this progress lies technological advancements which perpetuate the in-place powers and rules of society. It is virtually impossible to sufficiently interface with modern technology and contemporary society without sacrificing one’s privacy to some extent.</description>
+        </item>
+            
+        
+    </channel>
+</rss>
