@@ -6,3 +6,9 @@ menu:
     parent: "Artifacts"
     url: "cyse425w"
 ---
+
+<details>
+<summary>View policy analysis 5</summary>
+
+  {{< pdfReader "CYSE425W_EmilssonAtticus_PolicyAnalysis5.pdf" >}}
+</details>

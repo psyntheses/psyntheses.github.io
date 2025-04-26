@@ -6,3 +6,9 @@ menu:
     parent: "Artifacts"
     url: "soc205s"
 ---
+
+<details>
+<summary>View research paper</summary>
+
+  {{< pdfReader "SOC205S_EmilssonAtticus_ResearchPaper.pdf" >}}
+</details>

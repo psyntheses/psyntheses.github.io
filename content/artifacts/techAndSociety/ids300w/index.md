@@ -6,3 +6,9 @@ menu:
     parent: "Artifacts"
     url: "ids300w"
 ---
+
+<details>
+<summary>View research paper</summary>
+
+  {{< pdfReader "IDS300WFinal.pdf" >}}
+</details>

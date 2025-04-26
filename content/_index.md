@@ -27,6 +27,11 @@ IT Technician, cybersecurity student currently enrolled at Old Dominion Universi
 
   {{< pdfReader "IDS493_EmilssonAtticus_Narrative.pdf" >}}
 </details>
+<details>
+<summary>View reflection essay</summary>
+
+  {{< pdfReader "IDS493_EmilssonAtticus_Reflection.pdf" >}}
+</details>
     {{% /resume-section %}}
 
     {{% resume-section title="Interests" %}}
